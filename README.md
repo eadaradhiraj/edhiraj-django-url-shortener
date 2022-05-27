@@ -1,0 +1,1 @@
+This simple django Rest API shortens URLs. 
